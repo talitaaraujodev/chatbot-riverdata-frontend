@@ -1,6 +1,6 @@
 <div align="center">
 
-# Desafio Técnico Backend - Riverdata
+# Desafio Técnico Frontend - Riverdata
 
 Esse projeto faz parte do desafio técnico da Riverdata, e consiste na parte do frontend desenvolvida com React.js + Vite, na qual é possível se integrar com a <a href="https://github.com/talitaaraujodev/api-chatbot-riverdata" target="_blank">API</a> desenvolvida e utilizar o chat.
 
@@ -19,6 +19,12 @@ Acesse o projeto pela seguinte url abaixo:
 ```bash
 http://localhost:5173
 ```
+
+## 👋 Algumas fotinhas
+
+<p>
+<img style='margin: 5px;' src="./src/docs/home.png" />
+</p>
 
 ## 🎯 Tecnologias Utilizadas
 
